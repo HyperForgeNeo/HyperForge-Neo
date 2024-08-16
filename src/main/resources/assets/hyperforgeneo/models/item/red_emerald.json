@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "hyperforgeneo:item/reed_emerald"
+      "layer0": "hyperforgeneo:item/red_emerald"
     }
 }
